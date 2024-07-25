@@ -18,6 +18,8 @@ import'./styles.css'; // Importa el archivo de estilos CSS
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import TablaConIconos from './componentes/TablaConIconos';
 import 'bootstrap/dist/css/bootstrap.min.css';
+//import practica 5
+import FormularioRegistro from './componentes/FormularioRegistro';
 
 // app es un componente que actua como el componente principal
 function App() {
@@ -53,6 +55,9 @@ function App() {
 {/**practica 4 */}
 <h1>Tabla con Iconos</h1>
       <TablaConIconos />
+
+      {/**practica 5 */}
+      <FormularioRegistro />
     </div>
   );
 }

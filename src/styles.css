@@ -1,0 +1,19 @@
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: green; /* Cambia el color de las flechas */
+}
+
+.carousel-caption {
+  color: rgb(241, 235, 232); /* Cambia el color del texto */
+}
+.blue-toast {
+    background-color: blue;
+    color: white;
+  }
+  
+.carousel-image {
+  width: 100%; /* Ajusta el ancho de la imagen para que se ajuste al contenedor */
+  height: 500px; /* Ajusta la altura de las imágenes según tus necesidades */
+  object-fit: cover; /* Mantiene la proporción y cubre el área sin distorsionar la imagen */
+}
+

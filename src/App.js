@@ -8,8 +8,12 @@ import Imagen from './componentes/imagen';
 import Contador from './componentes/Contador'; //importa el componente contador desde la carpeta componentes 
 import CambiarImagen from './componentes/CambiarImagen'; //importa cambiarimagen desde la carpeta componentes
 import CambiarColorFondo from './componentes/CambiarColorFondo'; //importa cambiarfondo desde la carpeta 
-
-
+//imports practica 3
+import ToastButton from './componentes/ToastButton'; // Importa el componente ToastButton
+import ModalButton from './componentes/ModalButton'; // Importa el componente ModalButton
+import CustomCarousel from './componentes/CustomCarousel'; // Importa el componente CustomCarousel
+import 'bootstrap/dist/css/bootstrap.min.css'; // Importa los estilos de Bootstrap para usarlos en los componentes
+import'./styles.css'; // Importa el archivo de estilos CSS
 
 
 // app es un componente que actua como el componente principal
@@ -28,13 +32,21 @@ function App() {
       
 
  {/**practica 2 */}
-      <h1>Ejemplo de useState y useEffect</h1>
+     {/* <h1>Ejemplo de useState y useEffect</h1> */}
       {/**contador  Renderiza el componente */}
-      <Contador /> 
+     {/* <Contador />  */}
       {/**Renderiza el componente cambiarimagen*/}
-      <CambiarImagen />
+     {/* <CambiarImagen /> */}
       {/**Renderiza el componente CambiarColorFondo*/}
-      <CambiarColorFondo />
+      {/*<CambiarColorFondo /> */}
+
+{/**practica 3 */}
+      {/* Renderiza el componente ToastButton */}
+      <ToastButton />
+      {/* Renderiza el componente ModalButton */}
+      <ModalButton />
+       {/* Renderiza el componente CustomCarousel */}
+      <CustomCarousel />
     </div>
   );
 }

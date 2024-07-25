@@ -1,0 +1,102 @@
+[
+    {
+      "texto1": "Texto 1",
+    "texto2": "Texto 2",
+    "imagen": "/imagenes/imagen1.png"
+    },
+    {
+      "texto1": "Texto 3",
+      "texto2": "Texto 4",
+      "imagen": "/imagenes/imagen2.jpg"
+    },
+    {
+      "texto1": "Texto 5",
+      "texto2": "Texto 6",
+      "imagen": "/imagenes/imagen3.png"
+    },
+    {
+      "texto1": "Texto 7",
+      "texto2": "Texto 8",
+      "imagen": "/imagenes/imagen4.jpg"
+    },
+    {
+      "texto1": "Texto 9",
+      "texto2": "Texto 10",
+      "imagen": "/imagenes/imagen5.jpeg"
+    },
+    {
+      "texto1": "Texto 11",
+      "texto2": "Texto 12",
+      "imagen": "/imagenes/imagen6.jpg"
+    },
+    {
+      "texto1": "Texto 13",
+      "texto2": "Texto 14",
+      "imagen": "/imagenes/imagen7.jpg"
+    },
+    {
+      "texto1": "Texto 15",
+      "texto2": "Texto 16",
+      "imagen": "/imagenes/imagen8.jpg"
+    },
+    {
+      "texto1": "Texto 17",
+      "texto2": "Texto 18",
+      "imagen": "/imagenes/imagen9.jpg"
+    },
+    {
+      "texto1": "Texto 19",
+      "texto2": "Texto 20",
+      "imagen": "/imagenes/imagen10.jpg"
+    },
+    {
+      "texto1": "Texto 21",
+      "texto2": "Texto 22",
+      "imagen": "/imagenes/imagen11.jpg"
+    },
+    {
+      "texto1": "Texto 23",
+      "texto2": "Texto 24",
+      "imagen": "/imagenes/imagen12.jpeg"
+    },
+    {
+      "texto1": "Texto 25",
+      "texto2": "Texto 26",
+      "imagen": "/imagenes/imagen13.jpeg"
+    },
+    {
+      "texto1": "Texto 27",
+      "texto2": "Texto 28",
+      "imagen": "/imagenes/imagen14.jpg"
+    },
+    {
+      "texto1": "Texto 29",
+      "texto2": "Texto 30",
+      "imagen": "/imagenes/imagen15.jpeg"
+    },
+    {
+      "texto1": "Texto 31",
+      "texto2": "Texto 32",
+      "imagen": "/imagenes/imagen16.jpeg"
+    },
+    {
+      "texto1": "Texto 33",
+      "texto2": "Texto 34",
+      "imagen": "/imagenes/imagen17.jpeg"
+    },
+    {
+      "texto1": "Texto 35",
+      "texto2": "Texto 36",
+      "imagen": "/imagenes/imagen18.jpg"
+    },
+    {
+      "texto1": "Texto 37",
+      "texto2": "Texto 38",
+      "imagen": "/imagenes/imagen19.png"
+    },
+    {
+      "texto1": "Texto 39",
+      "texto2": "Texto 40",
+      "imagen": "/imagenes/imagen20.jpg"
+    }
+  ]

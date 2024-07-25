@@ -14,7 +14,10 @@ import ModalButton from './componentes/ModalButton'; // Importa el componente Mo
 import CustomCarousel from './componentes/CustomCarousel'; // Importa el componente CustomCarousel
 import 'bootstrap/dist/css/bootstrap.min.css'; // Importa los estilos de Bootstrap para usarlos en los componentes
 import'./styles.css'; // Importa el archivo de estilos CSS
-
+//imports practica 4
+import '@fortawesome/fontawesome-free/css/all.min.css';
+import TablaConIconos from './componentes/TablaConIconos';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // app es un componente que actua como el componente principal
 function App() {
@@ -30,7 +33,6 @@ function App() {
      {/** <Parrafo texto="Este es un párrafo de ejemplo." tipoFuente="Times New Roman" tamañoTexto="18px" color="black" /> */}
      {/** <Imagen src="/imagen.jpg" alt="Descripción de la imagen" tipoFuente="Comic Sans MS" tamañoTexto="14px" color="red" /> */}
       
-
  {/**practica 2 */}
      {/* <h1>Ejemplo de useState y useEffect</h1> */}
       {/**contador  Renderiza el componente */}
@@ -42,11 +44,15 @@ function App() {
 
 {/**practica 3 */}
       {/* Renderiza el componente ToastButton */}
-      <ToastButton />
+     {/*  <ToastButton /> */}
       {/* Renderiza el componente ModalButton */}
-      <ModalButton />
+     {/* <ModalButton /> */}
        {/* Renderiza el componente CustomCarousel */}
-      <CustomCarousel />
+     {/* <CustomCarousel /> */}
+
+{/**practica 4 */}
+<h1>Tabla con Iconos</h1>
+      <TablaConIconos />
     </div>
   );
 }

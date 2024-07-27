@@ -53,8 +53,8 @@ function App() {
      {/* <CustomCarousel /> */}
 
 {/**practica 4 */}
-<h1>Tabla con Iconos</h1>
-      <TablaConIconos />
+{/** <h1>Tabla con Iconos</h1> */}
+   {/**    <TablaConIconos /> */}
 
       {/**practica 5 */}
       <FormularioRegistro />

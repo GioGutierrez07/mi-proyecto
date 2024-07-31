@@ -20,9 +20,10 @@ import TablaConIconos from './componentes/TablaConIconos';
 import 'bootstrap/dist/css/bootstrap.min.css';
 //import practica 5
 import FormularioRegistro from './componentes/FormularioRegistro';
-
 //import practica 8 
 import UserCard from './componentes/UserCard';
+//import practica 9 
+import BeerTable from './componentes/BeerTable'; // Importa BeerTable
 
 // app es un componente que actua como el componente principal
 function App() {
@@ -64,6 +65,8 @@ function App() {
 
 {/**practica 8 */}
       <UserCard />
+{/**practica 9 */}
+      <BeerTable />
     </div>
   );
 }

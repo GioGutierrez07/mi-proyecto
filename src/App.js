@@ -21,6 +21,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 //import practica 5
 import FormularioRegistro from './componentes/FormularioRegistro';
 
+//import practica 8 
+import UserCard from './componentes/UserCard';
+
 // app es un componente que actua como el componente principal
 function App() {
 //define los estilos en linea para el contenedor principal 
@@ -57,7 +60,10 @@ function App() {
    {/**    <TablaConIconos /> */}
 
       {/**practica 5 */}
-      <FormularioRegistro />
+     {/**  <FormularioRegistro /> */}
+
+{/**practica 8 */}
+      <UserCard />
     </div>
   );
 }

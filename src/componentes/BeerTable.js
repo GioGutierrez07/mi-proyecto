@@ -16,6 +16,7 @@ function BeerTable() {
         throw new Error('Network response was not ok');
       }
       const data = await response.json();
+      console.log (data)
       setBeerData(data); // Actualiza el estado con los datos obtenidos
     } catch (error) {
       console.error('There was a problem with the fetch operation:', error);
